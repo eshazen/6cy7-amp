@@ -12,6 +12,12 @@ K triode valve
 F http://www.r-type.org/pdfs/ecc88.pdf
 $ENDCMP
 #
+$CMP SW_SPST_GND
+D Single Pole Single Throw (SPST) switch
+K switch lever
+F ~
+$ENDCMP
+#
 $CMP Transformer_1P_SS
 D Transformer, single primary, split secondary
 K transformer coil magnet
