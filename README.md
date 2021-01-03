@@ -19,4 +19,6 @@ We'll see how it goes... this is an experiment!
 * 1/2/21: Parts ordered from DigiKey and Antique Electronic Supply
 * 1/3/21: PCBs ordered from JLC (white soldermask, black silkscreen, cool, eh?)
 
-Hope to have it running by end of January!
+Total spent with some spare stuff thrown in ~ US $350.00.  Hope to have it running by end of January!
+
+**Speakers** Need some small bookshelf speakers to go with it.  Will test the amp with what I have lying around before making any decisions.  The easiest would be to buy another pair of Minimus-7's and apply the 'Zilch' crossover mod.
