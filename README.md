@@ -10,3 +10,13 @@ Everything is on the PCB.  Plan is to just set it on feet / standoffs.
 We'll see how it goes... this is an experiment!
 
 <img src="https://github.com/eshazen/6cy7-amp/blob/main/pix/pcb_3d_amp.png" width=300>
+
+## News
+
+**2021-01-03**
+
+* 2/29/20: Iron ordered from MusicalPowerSupplies.com for a ~ 1/5/21 ship date
+* 1/2/21: Parts ordered from DigiKey and Antique Electronic Supply
+* 1/3/21: PCBs ordered from JLC (white soldermask, black silkscreen, cool, eh?)
+
+Hope to have it running by end of January!
