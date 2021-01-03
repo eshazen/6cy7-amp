@@ -15,7 +15,7 @@ We'll see how it goes... this is an experiment!
 
 **2021-01-03**
 
-* 2/29/20: Iron ordered from MusicalPowerSupplies.com for a ~ 1/5/21 ship date
+* 2/29/20: Iron ordered from MusicalPowerSupplies.com for a ~ 1/15/21 ship date
 * 1/2/21: Parts ordered from DigiKey and Antique Electronic Supply
 * 1/3/21: PCBs ordered from JLC (white soldermask, black silkscreen, cool, eh?)
 
