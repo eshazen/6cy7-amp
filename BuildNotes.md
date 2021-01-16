@@ -1,7 +1,7 @@
 ## Want to build one?
 
 Contact Matt at musicalpowersupplies.com and ask for:
-4
+
 ```
 (1) PT190.2 USA   (or international version if not in USA)
 (2) OT8SE
@@ -27,6 +27,7 @@ About 20 3/4" long 6-32 male/female standoffs
 About 4 1/2" long 6-32 male/female standoffs
 A good supply of 6-32 nuts and screws and maybe some washers
 Some 1A slow-blo fuses (1-1/4" long glass ones)
+An AC power cord
 ```
 
 ## Some assembly notes:
