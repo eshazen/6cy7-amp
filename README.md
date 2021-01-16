@@ -17,6 +17,12 @@ a wooden base and acrylic cover.
 <img src="https://github.com/eshazen/6cy7-amp/blob/main/pix/top_view.jpg" width=250>
 </table>
 
+## Want to build one?
+
+See BuildNotes.md
+
+
+
 ## News
 
 **2021-01-15**
