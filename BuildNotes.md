@@ -66,7 +66,7 @@ Don't operate the amp for any significant time with no speakers connected if you
   Measure B+ ("RED" solder pad next to each OT)
   It should come up to around 200V within 30s or so as the rectifier warms
   
-  Power down and install the signal tubes (6CY7) one at a time
+  Power down, remove the load resistors, install the signal tubes (6CY7) one at a time
   Power up, watch the voltage across R5 or R10... should settle around 28V.
      If it is much different from this, turn off and debug
   Check voltage across R1 or R6, should be around 1.3V
