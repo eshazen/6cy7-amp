@@ -46,7 +46,7 @@ For the speaker outputs, the pads are too small to make good contact with the te
 
 I have a rig with a variac and light bulb in series I use for all new amp power-ups.  If you are very careful to get all the parts in the right place and install a reasonable fuse you're probably OK to just turn it on and hope for the best.  
 
-Here are some voltage measurements to check:
+Here are some voltage measurements to check (GND is on for example the shield of the input jacks)
 
 ```
   B+             ~ 208V  (measure on "RED" solder pad next to each OT)
