@@ -8,10 +8,13 @@ using transformers from MusicalPowerSupplies.com.
 PCB design here is 388 x 194mm.  It will be the standard 1oz copper, 1.6mm thick.
 Everything is on the PCB.  Plan is to just set it on feet / standoffs.
 
+<table>
+  <tr><td>
 <img src="https://github.com/eshazen/6cy7-amp/blob/main/pix/under_test.jpg" width=400>
+  <td>
 <img src="https://github.com/eshazen/6cy7-amp/blob/main/pix/bare_pcb.jpg" width=250>
 <img src="https://github.com/eshazen/6cy7-amp/blob/main/pix/top_view.jpg" width=250>
-
+</table>
 
 ## News
 
