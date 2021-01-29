@@ -6,8 +6,7 @@ amp: https://www.cascadetubes.com/the-6cy7-v2-0-zebrawood-amp/.  I'm
 using transformers from MusicalPowerSupplies.com.
 
 PCB design here is 388 x 194mm.  It's the standard 1oz copper, 1.6mm thick.
-Everything is on the PCB.  Plan is to just set it on feet / standoffs, maybe make
-a wooden base and acrylic cover.
+Everything is on the PCB.  Mounted on a wooden base on 3/4 inch standoffs (including standoffs under the PT).  Case is 20mm 80/20 T-slot rail with acrylic side panels.  Complete overkill, but I like the industrial look!
 
 <table>
   <tr><td>
