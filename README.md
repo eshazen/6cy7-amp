@@ -11,6 +11,8 @@ a wooden base and acrylic cover.
 
 <table>
   <tr><td>
+    <img src="https://github.com/eshazen/6cy7-amp/blob/main/pix/enclosure_done.jpg" width=500">
+  <tr><td>
 <img src="https://github.com/eshazen/6cy7-amp/blob/main/pix/under_test.jpg" width=350>
   <img src="https://github.com/eshazen/6cy7-amp/blob/main/pix/bottom.jpg" width=350>
   <td>
