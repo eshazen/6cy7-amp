@@ -5,13 +5,36 @@ bedroom.  It is essentially a build of the Cascade Tubes "Zebrawood"
 amp: https://www.cascadetubes.com/the-6cy7-v2-0-zebrawood-amp/.  I'm
 using transformers from MusicalPowerSupplies.com.
 
-PCB design here is 388 x 194mm.  It will be the standard 1oz copper, 1.6mm thick.
-Everything is on the PCB.  Plan is to just set it on feet / standoffs.
-We'll see how it goes... this is an experiment!
+PCB design here is 388 x 194mm.  It's the standard 1oz copper, 1.6mm thick.
+Everything is on the PCB.  Plan is to just set it on feet / standoffs, maybe make
+a wooden base and acrylic cover.
 
-<img src="https://github.com/eshazen/6cy7-amp/blob/main/pix/pcb_3d_amp.png" width=300>
+<table>
+  <tr><td>
+<img src="https://github.com/eshazen/6cy7-amp/blob/main/pix/under_test.jpg" width=350>
+  <img src="https://github.com/eshazen/6cy7-amp/blob/main/pix/bottom.jpg" width=350>
+  <td>
+<img src="https://github.com/eshazen/6cy7-amp/blob/main/pix/bare_pcb.jpg" width=350>
+<img src="https://github.com/eshazen/6cy7-amp/blob/main/pix/top_view.jpg" width=350>
+</table>
+
+## Want to build one?
+
+See https://github.com/eshazen/6cy7-amp/blob/main/BuildNotes.md
+
 
 ## News
+
+**2021-01-15**
+
+It's done!  Sounds great!  A couple of concerns:
+
+I forgot the R/C filter for the preamp stage B+.  No audible defects due to this, but if someone else wants
+to consider using this PCB design the R+C should be added.
+
+One of the "NOS" 6CY7s (a Tung-Sol, made in USA) ran very hot (right at 32mA, 5.4W plate diss.) with
+the 1k cathode resistor.  Swapped it for another of indeterminate make and it is fine.  Both channels
+now around 27mA (4.6W).
 
 **2021-01-03**
 
