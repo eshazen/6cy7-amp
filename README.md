@@ -28,10 +28,9 @@ See https://github.com/eshazen/6cy7-amp/blob/main/BuildNotes.md
 
 **2021-02-20**
 
-Working on a second PCB.  MPS has a long lead time on the PT, so looking at options:
-
-* AS-1T175 -- (2x 175V @ 280mA, 2x 6.3V @ 3A)  
-* 
+Working on a second PCB.  MPS has a long lead time on the PT.  
+Ordered two OT8SE OTs and one of these:  AS-1T175 -- (2x 175V @ 280mA, 2x 6.3V @ 3A).
+This thing is toroidal, 3.9" dia, 2" h.  Plan to mount it vertically on a bracket above the PCB.
 
 **2021-01-15**
 
