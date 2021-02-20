@@ -26,6 +26,13 @@ See https://github.com/eshazen/6cy7-amp/blob/main/BuildNotes.md
 
 ## News
 
+**2021-02-20**
+
+Working on a second PCB.  MPS has a long lead time on the PT, so looking at options:
+
+* AS-1T175 -- (2x 175V @ 280mA, 2x 6.3V @ 3A)  
+* 
+
 **2021-01-15**
 
 It's done!  Sounds great!  A couple of concerns:
