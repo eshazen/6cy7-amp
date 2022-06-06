@@ -1,15 +1,16 @@
 # 6c67-amp
 
 This is a low power single-ended tridode (SET) hi-fi amp for the
-bedroom.  It is essentially a build of the Cascade Tubes "Zebrawood"
+workshop.  It is essentially a build of the Cascade Tubes "Zebrawood"
 amp: https://www.cascadetubes.com/the-6cy7-v2-0-zebrawood-amp/.  I'm
 using transformers from MusicalPowerSupplies.com.
 
 PCB design here is 388 x 194mm.  It's the standard 1oz copper, 1.6mm thick.
-Everything is on the PCB.  Plan is to just set it on feet / standoffs, maybe make
-a wooden base and acrylic cover.
+Everything is on the PCB.  Mounted on a wooden base on 3/4 inch standoffs (including standoffs under the PT).  Case is 20mm 80/20 T-slot rail with acrylic side panels.  Complete overkill, but I like the industrial look!
 
 <table>
+  <tr><td>
+    <img src="https://github.com/eshazen/6cy7-amp/blob/main/pix/enclosure_done.jpg" width=500">
   <tr><td>
 <img src="https://github.com/eshazen/6cy7-amp/blob/main/pix/under_test.jpg" width=350>
   <img src="https://github.com/eshazen/6cy7-amp/blob/main/pix/bottom.jpg" width=350>
@@ -24,6 +25,12 @@ See https://github.com/eshazen/6cy7-amp/blob/main/BuildNotes.md
 
 
 ## News
+
+**2021-02-20**
+
+Working on a second PCB.  MPS has a long lead time on the PT.  
+Ordered two OT8SE OTs and one of these:  AS-1T175 -- (2x 175V @ 280mA, 2x 6.3V @ 3A).
+This thing is toroidal, 3.9" dia, 2" h.  Plan to mount it vertically on a bracket above the PCB.
 
 **2021-01-15**
 
