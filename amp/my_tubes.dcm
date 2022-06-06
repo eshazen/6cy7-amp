@@ -6,10 +6,52 @@ K triode valve
 F http://www.r-type.org/pdfs/ecc88.pdf
 $ENDCMP
 #
+$CMP 6DJ8
+D double triode, low-noise
+K triode valve
+F http://www.r-type.org/pdfs/ecc88.pdf
+$ENDCMP
+#
+$CMP 6SL7
+D double triode
+K triode valve
+F http://www.r-type.org/pdfs/ecc81.pdf
+$ENDCMP
+#
+$CMP 6V6
+D pentode, 25W
+K pentode valve
+F http://www.r-type.org/pdfs/el34.pdf
+$ENDCMP
+#
+$CMP ECC81
+D double triode
+K triode valve
+F http://www.r-type.org/pdfs/ecc81.pdf
+$ENDCMP
+#
+$CMP ECC83
+D double triode
+K triode valve
+F http://www.r-type.org/pdfs/ecc83.pdf
+$ENDCMP
+#
+$CMP ECC83_copy_copy
+D double triode
+K triode valve
+F http://www.r-type.org/pdfs/ecc83.pdf
+$ENDCMP
+#
 $CMP ECC88
 D double triode, low-noise
 K triode valve
 F http://www.r-type.org/pdfs/ecc88.pdf
+$ENDCMP
+#
+$CMP EL34
+D pentode, 25W
+K pentode valve
+F http://www.r-type.org/pdfs/el34.pdf
 $ENDCMP
 #
 $CMP SW_SPST_GND
@@ -24,6 +66,18 @@ K transformer coil magnet
 F ~
 $ENDCMP
 #
+$CMP Transformer_272X
+D Transformer, single primary, split secondary
+K transformer coil magnet
+F ~
+$ENDCMP
+#
+$CMP Transformer_Hammond_1608A
+D Transformer, split primary, dual secondary
+K transformer coil magnet
+F ~
+$ENDCMP
+#
 $CMP Transformer_PT190.2
 D Transformer, single primary, split secondary
 K transformer coil magnet
@@ -31,6 +85,12 @@ F ~
 $ENDCMP
 #
 $CMP Transformer_tube_power
+D Transformer, single primary, split secondary
+K transformer coil magnet
+F ~
+$ENDCMP
+#
+$CMP Transformer_tube_power_dualfil
 D Transformer, single primary, split secondary
 K transformer coil magnet
 F ~
