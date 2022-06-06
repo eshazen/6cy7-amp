@@ -78,6 +78,12 @@ K transformer coil magnet
 F ~
 $ENDCMP
 #
+$CMP Transformer_Hammond_272HX
+D Transformer, single primary, split secondary
+K transformer coil magnet
+F ~
+$ENDCMP
+#
 $CMP Transformer_PT190.2
 D Transformer, single primary, split secondary
 K transformer coil magnet
