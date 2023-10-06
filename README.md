@@ -1,4 +1,4 @@
-# 6c67-amp
+# 6CY7-amp
 
 This is a low power single-ended tridode (SET) hi-fi amp for the
 workshop.  It is essentially a build of the Cascade Tubes "Zebrawood"
